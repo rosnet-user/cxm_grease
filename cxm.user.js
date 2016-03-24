@@ -31,7 +31,7 @@ var css = hackForStringLiteral(function () {/*!
 
 #cxm_grease .menu {
 	padding: 5px;
-	background-color: #A03030;
+	background-color: #009900;
 	color: white;
 	position: fixed;
 	top: 10px;
